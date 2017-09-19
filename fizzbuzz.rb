@@ -8,4 +8,7 @@ elsif int % 3 == 0
 elsif int % 5 == 0
     return "Buzz"
   end
+else
+  return nil
+end
 end
